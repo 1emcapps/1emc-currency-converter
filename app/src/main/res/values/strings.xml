@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">1emc Currency Converter</string>
+    <string name="nav_convert">Convert</string>
+    <string name="nav_multi">Multi</string>
+    <string name="nav_settings">Settings</string>
+    <string name="offline_banner">Offline - using saved rates</string>
+    <string name="last_updated_prefix">Last updated: %1$s</string>
+    <string name="rates_not_loaded">Rates not loaded yet</string>
+    <string name="copied_to_clipboard">Copied %1$s to clipboard</string>
+    <string name="cd_swap_currencies">Swap source and target currencies</string>
+    <string name="cd_refresh_rates">Refresh exchange rates</string>
+    <string name="cd_app_logo">1emc Currency Converter logo</string>
+    <string name="cd_toggle_favorite">Toggle favorite currency</string>
+    <string name="cd_remove_currency">Remove currency from list</string>
+    <string name="cd_move_up">Move currency up</string>
+    <string name="cd_move_down">Move currency down</string>
+    <string name="cd_add_currency">Add currency to multi-currency list</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_clear_amount">Clear amount</string>
+    <string name="cd_close_sheet">Close currency picker</string>
+</resources>

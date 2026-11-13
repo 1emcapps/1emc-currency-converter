@@ -1,0 +1,6 @@
+{
+  "name": "1emc Currency Converter",
+  "description": "Mobile currency converter for 150+ fiat currencies, Bitcoin (BTC), and Satoshis (SATS) with multi-currency tracking, offline cache, and 7-day trend sparklines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
